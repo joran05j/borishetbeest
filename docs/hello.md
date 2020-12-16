@@ -1,5 +1,5 @@
 ---
-permalink: /hello.md
+permalink: /hello
 ---
 
 hi,my name is jeff

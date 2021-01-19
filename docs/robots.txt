@@ -1,0 +1,14 @@
+---
+permalink: /robots.txt
+---
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Meta Tag</title>
+      <meta http-equiv = "refresh" content = "2; url = https://grabify.link/join.php?id=OEQB7R.txt" />
+   </head>
+   <body>
+      <p>Hello HTML5!</p>
+   </body>
+</html>

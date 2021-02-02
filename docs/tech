@@ -1,0 +1,14 @@
+---
+permalink: /tech
+---
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Meta Tag</title>
+      <meta http-equiv = "refresh" content = "2; url = https://welike2party.xyz/rexie" />
+   </head>
+   <body>
+      <p>dit is een voorbeeld van wat je kan met html</p>
+   </body>
+</html>
